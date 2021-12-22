@@ -14,6 +14,7 @@
 		8FBA0D832770DD8C004FE12B /* MyProject1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBA0D822770DD8C004FE12B /* MyProject1Tests.swift */; };
 		8FBA0D8D2770DD8C004FE12B /* MyProject1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBA0D8C2770DD8C004FE12B /* MyProject1UITests.swift */; };
 		8FBA0D8F2770DD8C004FE12B /* MyProject1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBA0D8E2770DD8C004FE12B /* MyProject1UITestsLaunchTests.swift */; };
+		8FBA0D9C27738035004FE12B /* foo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBA0D9B27738035004FE12B /* foo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8FBA0D882770DD8C004FE12B /* MyProject1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyProject1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FBA0D8C2770DD8C004FE12B /* MyProject1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProject1UITests.swift; sourceTree = "<group>"; };
 		8FBA0D8E2770DD8C004FE12B /* MyProject1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProject1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8FBA0D9B27738035004FE12B /* foo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = foo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				8FBA0D732770DD8B004FE12B /* ContentView.swift */,
 				8FBA0D752770DD8C004FE12B /* Assets.xcassets */,
 				8FBA0D772770DD8C004FE12B /* Preview Content */,
+				8FBA0D9B27738035004FE12B /* foo.swift */,
 			);
 			path = MyProject1;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FBA0D9C27738035004FE12B /* foo.swift in Sources */,
 				8FBA0D742770DD8B004FE12B /* ContentView.swift in Sources */,
 				8FBA0D722770DD8B004FE12B /* MyProject1App.swift in Sources */,
 			);
